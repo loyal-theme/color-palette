@@ -6,7 +6,11 @@ This repository defines the color palette used across all configuration projects
 
 The Loyal Theme palette consists of ten well-balanced colors. These colors are selected to provide harmony between contrast, readability, and subtle expressiveness.
 
-![color-palette](https://github.com/user-attachments/assets/07e9d8b3-e504-4a54-96cc-754804d5f41e)
+<picture>
+  <source media="(max-width: 600px)" srcset="https://github.com/user-attachments/assets/df7164f8-0d68-4995-927d-90e8d62a8481">
+  <source media="(min-width: 601px)" srcset="https://github.com/user-attachments/assets/e2ec2745-ae95-4901-a155-5b76e9bc6560">
+  <img src="https://github.com/user-attachments/assets/e2ec2745-ae95-4901-a155-5b76e9bc6560" alt="color-palette">
+</picture>
 
 ## Usage Guidelines
 
